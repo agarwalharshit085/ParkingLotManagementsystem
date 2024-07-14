@@ -1,18 +1,17 @@
-## Getting Started
+# Parking Lot Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
+This project is a Parking Lot Management System implemented in Java. It provides functionalities for managing the entry and exit of vehicles, allocating parking slots, and calculating parking fees. The system is designed to be scalable and efficient, leveraging a MySQL database for persistent data storage.
 
-## Folder Structure
+## Features
+- Vehicle entry and exit management
+- Parking slot allocation
+- Fee calculation based on parking duration
+- Integration with MySQL database for data persistence
 
-The workspace contains two folders by default, where:
+## Technologies Used
+- Java
+- MySQL
+- JDBC
+- Maven
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
